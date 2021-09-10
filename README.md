@@ -9,7 +9,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 [![Travis](https://travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://travis-ci.com/ethereum/go-ethereum)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/ymKaQt98hw)
 
-NFTers are welcomed at https://gopixel.xyz. have fun, stay cool.
+Fraction and lego your NFT at https://gopixel.xyz. Have fun, stay cool.
 
 
 ## Background
@@ -29,13 +29,8 @@ This section should list any major frameworks that you built your project using.
 * [Javascript](https://www.javascript.com)
 * [Vue](https://vuejs.org)
 
-## Features
-#### Franctionalize 
-#### Legonalize
-#### Trade 
-#### Yield Farming
-#### Stake
-#### DAO governance
+## Usage
+Franctionalize,Legonalize,Trade and Farm NFT 
 
 ## Diagram
 ![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/dia.png)
