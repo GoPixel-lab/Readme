@@ -30,7 +30,7 @@ Goto gopixel.xyz and play lego.
 ### DAO governance
 
 ## Diagram
-![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/diagram.png)
+![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/dia.png)
 
 ## Maintainers
 Maintainers of this repository 
