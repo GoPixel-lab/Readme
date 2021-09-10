@@ -1,4 +1,4 @@
-## GoPixel
+## Introduction to GoPixel
 
 GoPixel is a robust NFT fractional and legolize platform based on Ethereum
 
@@ -24,14 +24,45 @@ Go to gopixel.xyz and play lego together .
 ![](https://github.com/GoPixelLab/Readme/blob/main/sfsdfdsf-750x375.png)
 ## Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Ethereum](https://ethereum.org/en/)
 * [Javascript](https://www.javascript.com)
 * [Vue](https://vuejs.org)
 
 ## Usage
 Franctionalize,Legonalize,Trade and Farm NFT 
+### Gallery
+Anyone can create gallery for NFT asset they hold.After that, any guys interested in be part of that NFT is able to trade or provide liqudity for that NFT desired, a numbers of $NFT token is mint for holders, must be passed in:
+- an ERC20 name
+- an ERC20 symbol
+- the ERC721 token address to fractionalize
+- the ERC721 token id to fractionalize
+- the dedired ERC721 token supply
+- the desired ERC20 token supply
+- the initial listing price of the NFT
+- desired curator fee
 
+### Mint $NFT
+A permission less swap is created for anyone interested in holding,liqudity or buy out!One the NFT is signed numbers of $NFT will be created ruled by holder only,it can be created by random number of each piece which means more NFTs,or equal standard in FT.
+NFT owners are able to change floor price, auction rules which traders and buyers to start the auction of the NFT.
+#### Start
+This is the very beginning of the auction,buyout value must at least equal to the holder setting floor price
+#### Bid
+For subsequrent auction bids
+#### Cash
+For any $NFT token holders to cash out their token into ETH/USDT whatever trading pair created, a curator fee is for creator to be able to claim fees in the form of token suplly inflation.
+
+### Floor Price
+Floor price is the lowest price of the holder willing to sell the NFT, buy out must be at least equal to this number otherwise deal is off
+## IndexERC721
+This is a single token ERC721 which is used to custody multiple ERC721 tokens. 
+#### depositERC721
+Anyone can deposit an ERC721 token into the contract
+#### withdrawERC721
+The token owner can withdraw any ERC721 tokens in the contract
+#### withdrawETH
+The token owner can withdraw any ETH in the contract
+#### withdrawERC20
+The token owner can withdraw any ERC20 token in the contract
 ## Diagram
 ![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/dia.png)
 
