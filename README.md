@@ -18,5 +18,9 @@ If you have the Mona Lisa's smile cut into 100w pieces, what kind of new gamepla
 
 ```shell
 Install Metakmask/Imtoken
+Goto gopixel.xyz and play lego.
 ```
+![](https://github.com/GoPixelLab/Readme/blob/main/sfsdfdsf-750x375.png)
+## Diagram
+![Diagram of the current structure and third party ecosystem]
 
