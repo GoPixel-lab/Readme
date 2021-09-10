@@ -23,7 +23,11 @@ Goto gopixel.xyz and play lego.
 ![](https://github.com/GoPixelLab/Readme/blob/main/sfsdfdsf-750x375.png)
 
 ## Feature
-
+### Franctionalize 
+### Legonalize
+### Trade 
+### Farm
+### DAO governance
 
 ## Diagram
 ![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/diagram.png)
