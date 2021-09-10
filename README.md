@@ -22,11 +22,12 @@ Go to gopixel.xyz and play lego together .
 ```
 ![](https://github.com/GoPixelLab/Readme/blob/main/sfsdfdsf-750x375.png)
 
-## Feature
+## Features
 ### Franctionalize 
 ### Legonalize
 ### Trade 
-### Farm
+### Yield Farming
+### Stake
 ### DAO governance
 
 ## Diagram
