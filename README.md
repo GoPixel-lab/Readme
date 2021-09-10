@@ -21,6 +21,21 @@ Install Metakmask/Imtoken
 Goto gopixel.xyz and play lego.
 ```
 ![](https://github.com/GoPixelLab/Readme/blob/main/sfsdfdsf-750x375.png)
+
+## Feature
+
+
 ## Diagram
 ![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/diagram.png)
 
+## Maintainers
+Maintainers of this repository 
+- [@0x21](https://github.com/acao)
+- [@Funcoco](https://github.com/imolorhe)
+- [@yoshiakis](https://github.com/yoshiakis)
+- [@dotansimha](https://github.com/dotansimha)
+## Community
+- **Discord** [![Discord](https://img.shields.io/discord/625400653321076807.svg)](https://discord.gg/NP5vbPeUFp) - Most discussion outside of github happens on the Gopixel [Discord Server](https://discord.gg/NP5vbPeUFp)
+- **Twitter** - [@Gopixel](https://twitter.com/@GraphiQL) and [#Gopixel](https://twitter.com/hashtag/Gopixel)
+- **GitHub** - Create feature requests, discussions issues and bugs above
+- **Working Group** - Yes, you're invited! Monthly planning/decision making meetings, and working sessions every weeks on zoom! [Learn more.](working-group#readme)
