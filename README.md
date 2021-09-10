@@ -9,7 +9,8 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 [![Travis](https://travis-ci.com/ethereum/go-ethereum.svg?branch=master)](https://travis-ci.com/ethereum/go-ethereum)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/ymKaQt98hw)
 
-Fraction and lego your NFT at https://gopixel.xyz. Have fun, stay cool.
+Fraction and lego your NFT at https://gopixel.xyz. 
+Have fun, stay cool.
 
 
 ## Background
