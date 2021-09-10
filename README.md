@@ -11,6 +11,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 
 NFTers are welcomed at https://gopixel.xyz. have fun, stay cool.
 
+
 ## Background
 
 If you have the Mona Lisa's smile cut into 100w pieces, what kind of new gameplay and value discovery?
@@ -21,14 +22,20 @@ Install Metakmask
 Go to gopixel.xyz and play lego together .
 ```
 ![](https://github.com/GoPixelLab/Readme/blob/main/sfsdfdsf-750x375.png)
+## Built With
+
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Ethereum](https://ethereum.org/en/)
+* [Javascript](https://www.javascript.com)
+* [Vue](https://vuejs.org)
 
 ## Features
-### Franctionalize 
-### Legonalize
-### Trade 
-### Yield Farming
-### Stake
-### DAO governance
+#### Franctionalize 
+#### Legonalize
+#### Trade 
+#### Yield Farming
+#### Stake
+#### DAO governance
 
 ## Diagram
 ![Diagram of the current structure and third party ecosystem](https://github.com/GoPixelLab/Readme/blob/main/dia.png)
@@ -40,7 +47,7 @@ Maintainers of this repository
 - [@yoshiakis](https://github.com/yoshiakis)
 - [@dotansimha](https://github.com/dotansimha)
 ## Community
-- **Discord** [![Discord](https://img.shields.io/discord/625400653321076807.svg)](https://discord.gg/NP5vbPeUFp) - Most discussion outside of github happens on the Gopixel [Discord Server](https://discord.gg/NP5vbPeUFp)
-- **Twitter** - [@Gopixel](https://twitter.com/@GraphiQL) and [#Gopixel](https://twitter.com/hashtag/Gopixel)
+- **Discord** [![Discord](https://img.shields.io/discord/625400653321076807.svg)](https://discord.gg/ymKaQt98hw) - Most discussion outside of github happens on the Gopixel [Discord Server](https://discord.gg/ymKaQt98hw)
+- **Twitter** - [@Gopixel](https://twitter.com/@Gopixel) and [#Gopixel](https://twitter.com/hashtag/Gopixel)
 - **GitHub** - Create feature requests, discussions issues and bugs above
 - **Working Group** - Yes, you're invited! Monthly planning/decision making meetings, and working sessions every weeks on zoom! [Learn more.](working-group#readme)
